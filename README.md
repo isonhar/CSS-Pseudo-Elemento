@@ -6,7 +6,7 @@
 ## 💠Pseudos elementos
 
 <p>🔸::after</p>
-- Usado pra criar um elemento depois (a direita) do seletor.
+-  Usado pra criar um elemento depois (a direita) do seletor.
 
 - 🔸::before : Usado pra criar um elemento antes (a esquerda) do seletor.
 
