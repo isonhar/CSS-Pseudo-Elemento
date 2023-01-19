@@ -1,12 +1,10 @@
 # ❇️CSS Pseudo Elementos
 
-
-- 🔸Um Pseudo elemento junto a um seletor permite que uma parte do seletor existente ou criada  (quando se usa o pseudo elemento) seja estilizada
+<p>🔸Um Pseudo elemento junto a um seletor permite que uma parte do seletor existente ou criada  (quando se usa o pseudo elemento) seja estilizada.</p>
 
 ## 💠Pseudos elementos
 
 <p>🔸::after</p>
-
 >  Usado pra criar um elemento depois (a direita) do seletor.
 
 - 🔸::before : Usado pra criar um elemento antes (a esquerda) do seletor.
