@@ -5,12 +5,21 @@
 ## 💠Pseudos elementos
 
 <p>🔸::after</p>
+
 >  Usado pra criar um elemento depois (a direita) do seletor.
 
-- 🔸::before : Usado pra criar um elemento antes (a esquerda) do seletor.
+<p>🔸::before</p>
 
-- 🔸::first-letter : Usado para estilizar o primeiro caractere do seletor.
+>  Usado pra criar um elemento antes (a esquerda) do seletor.
 
-- 🔸::first-line : Usado para estilizar a primeira linha de um texto.
+<p>🔸::first-letter</p>
 
-- 🔸::selection : Usado para estilizar a seleção de texto do usuário
+>   Usado para estilizar o primeiro caractere do seletor.
+
+<p>🔸::first-line</p>
+
+>  Usado para estilizar a primeira linha de um texto.
+
+<p>🔸::selection</p>
+
+>  Usado para estilizar a seleção de texto do usuário.
