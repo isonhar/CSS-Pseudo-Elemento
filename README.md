@@ -1,25 +1,41 @@
 # ❇️CSS Pseudo Elementos
 
-<p>🔸Um Pseudo elemento junto a um seletor permite que uma parte do seletor existente ou criada  (quando se usa o pseudo elemento) seja estilizada.</p>
+🔸Um Pseudo elemento junto a um seletor permite que uma parte do seletor existente ou criada  (quando se usa o pseudo elemento) seja estilizada.
+
+---
 
 ## 💠Pseudos elementos
 
-<p>🔸::after</p>
+🔸::after
 
 >  Usado pra criar um elemento depois (a direita) do seletor.
 
-<p>🔸::before</p>
+---
+
+🔸::before
 
 >  Usado pra criar um elemento antes (a esquerda) do seletor.
 
-<p>🔸::first-letter</p>
+---
+
+🔸::first-letter
 
 >   Usado para estilizar o primeiro caractere do seletor.
 
-<p>🔸::first-line</p>
+---
+
+🔸::first-line
 
 >  Usado para estilizar a primeira linha de um texto.
 
-<p>🔸::selection</p>
+---
+
+🔸::selection
 
 >  Usado para estilizar a seleção de texto do usuário.
+
+---
+
+🔸::placeholder
+
+>  Usado para estilizar o placeholder de um input.
